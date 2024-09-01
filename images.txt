@@ -3,3 +3,6 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 thsrite/medialinker:latest
+ilovn/media302:latest
+ilovn/115upload:latest
+ilovn/media_library_sync:latest
