@@ -7,4 +7,4 @@ ilovn/media302:latest
 ilovn/115upload:latest
 ilovn/media_library_sync:latest
 shenxianmq/auto_symlink:latest
-cloudnas/clouddrive2
+cloudnas/clouddrive2:latest
