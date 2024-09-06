@@ -9,3 +9,5 @@ ilovn/media_library_sync:latest
 shenxianmq/auto_symlink:latest
 cloudnas/clouddrive2:latest
 joplin/server:latest
+emby/embyserver:latest
+mysql
