@@ -12,3 +12,4 @@ joplin/server:latest
 emby/embyserver:latest
 mysql
 jxxghp/moviepilot:latest
+nyanmisaka/jellyfin:latest
